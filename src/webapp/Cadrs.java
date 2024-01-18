@@ -1,6 +1,9 @@
 package webapp;
 
 public class Cadrs {
+    public static void main(String[] args) {
+
+    }
     // shoping cards
     // some deals
     // changes
