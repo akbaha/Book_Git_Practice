@@ -7,6 +7,6 @@ public class MyHomePage {
         // new menu
 
         // add some comments
-
+// add logo
     }
 }
