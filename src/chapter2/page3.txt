@@ -1,3 +1,0 @@
-first practice pushing the file from git to IntelJ
-
-we are practicinng 
